@@ -1,0 +1,10 @@
+*{
+    list-style: none;
+    text-decoration: none;color: inherit;
+    
+}
+
+.elementos{
+    display: flex;
+    flex-wrap: wrap
+}
